@@ -16,6 +16,7 @@ CoinCollect is a multi-chain, NFT-based DeFi protocol where users can earn crypt
 
 - **Set up your wallet** → [Create a Wallet](getting-started/create-a-wallet.md)
 - **Get $COLLECT** → [Get ERC-20 Token](getting-started/get-erc-20-token.md) or [Buy $COLLECT](usdcollect-token/buy-usdcollect.md)
+- **Use the CoinCollect web app** → [CoinCollect App (Web)](coincollect-app.md)
 - **Understand CoinCollect NFTs** → [What are CoinCollect utility NFTs?](coincollect-nft/what-are-coincollect-utility-nfts.md)
 - **See NFT tiers** → [How CoinCollect NFTs work?](coincollect-nft/how-coincollect-nfts-work/README.md)
 - **Learn token details** → [What is $COLLECT](usdcollect-token/what-is-usdcollect.md) and [Tokenomics](usdcollect-token/tokenomics.md)
@@ -31,4 +32,3 @@ CoinCollect is a multi-chain, NFT-based DeFi protocol where users can earn crypt
 
 - Start with [FAQ and Troubleshooting](extras/faq-and-troubleshooting.md)
 - Use [Official Accounts](extras/offical-accounts.md) to find verified channels
-

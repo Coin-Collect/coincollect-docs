@@ -16,6 +16,8 @@ We're thrilled to introduce Community Collections on CoinCollect, our special po
 
 **How It Works:** Community Collections are free-to-join pools where users can stake NFTs from the projects they already own. By participating, users can earn various tokens from these projects, including $UNI, $SAND, $SUSHI, MANA, ETH, BTC, and more. These pools are our gift to you, offering a unique opportunity to maximize the value of your NFTs and engage with your favorite web3 projects.
 
+Open the Community Collections section in the app: https://app.coincollect.org/nftpools/community-collections
+
 **Why Join?**
 
 * **Exclusive Access:** Stake NFTs from top web3 projects and earn rewards.
