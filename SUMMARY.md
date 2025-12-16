@@ -32,7 +32,7 @@
 * [🔑 Key 2 Web 3](community-rewards/key-2-web-3.md)
 * [💫 Galxe Community Rewards](community-rewards/galxe-community-rewards.md)
 * [🎯 TaskON Community Rewards](community-rewards/taskon-community-rewards.md)
-* [🎉 Community Collections](community-rewards/community-collections/README.md)
+* [Stake NFTs: Community Collections](community-rewards/community-collections/README.md)
   * [Uniswap Community Pool](community-rewards/community-collections/uniswap-community-pool.md)
   * [Sandbox Community Pool](community-rewards/community-collections/sandbox-community-pool.md)
   * [Decentraland Community Pool](community-rewards/community-collections/decentraland-community-pool.md)

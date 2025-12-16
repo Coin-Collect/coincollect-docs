@@ -1,27 +1,50 @@
 ---
 description: >-
-  Community Collections are free-to-join pools on CoinCollect for top web3
-  communities like UniSwap, Sandbox, and more. Stake your NFTs to earn various
-  tokens such as $UNI, $SUSHI, MANA, ETH, and BTC.
+  Stake NFTs on CoinCollect using Community Collections. Stake Uniswap NFTs,
+  stake Lens Profile NFTs, and stake other NFT collections to earn rewards.
 coverY: 0
 ---
 
-# 🎉 Community Collections
+# Stake NFTs: Community Collections
 
-**Unlock Exclusive Rewards with Community Collections**
+Stake NFT collections you already own and earn rewards in CoinCollect Community Collections. These pools are designed so you can **stake NFTs** from popular Web3 communities (for example: **stake a Uniswap NFT** or **stake a Lens Profile NFT**) and receive token rewards when the pool is active.
 
 We're thrilled to introduce Community Collections on CoinCollect, our special pools designed for the most valuable communities in the web3 ecosystem. Featuring projects like UniSwap, Lens Protocol, Unstoppable Domains, SushiSwap, SandBox, Crypto Unicorns, Smart Cats, and many more, these pools are a tribute to our vibrant community.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-05-28 at 18.49.45-min.png" alt=""><figcaption><p><strong>Community Collections - CoinCollect</strong></p></figcaption></figure>
 
-**How It Works:** Community Collections are free-to-join pools where users can stake NFTs from the projects they already own. By participating, users can earn various tokens from these projects, including $UNI, $SAND, $SUSHI, MANA, ETH, BTC, and more. These pools are our gift to you, offering a unique opportunity to maximize the value of your NFTs and engage with your favorite web3 projects.
+## How it works (Stake NFT → earn rewards)
 
-Open the Community Collections section in the app: https://app.coincollect.org/nftpools/community-collections
+Community Collections are free-to-join pools where users **stake NFTs** from supported projects. Rewards (token, APY, and duration) are shown in the pool UI.
 
-**Why Join?**
+Open Community Collections in the app: https://app.coincollect.org/nftpools/community-collections
 
-* **Exclusive Access:** Stake NFTs from top web3 projects and earn rewards.
-* **Diverse Tokens:** Collect tokens from a wide range of projects, enhancing your portfolio.
-* **Community Engagement:** Be part of a special initiative designed to reward our loyal users.
+## Stake popular NFT collections
+
+Use the pages below to stake specific community NFTs (SEO examples: “Stake Uniswap NFT”, “Stake Lens Profile NFT”):
+
+- [Stake Uniswap NFT](uniswap-community-pool.md)
+- [Stake Lens Profile NFT](lens-protocol-pool.md)
+- [Stake Sandbox NFT](sandbox-community-pool.md)
+- [Stake Decentraland NFT](decentraland-community-pool.md)
+- [Stake Unstoppable Domains NFT](unstoppable-domain-pool.md)
+- [Stake Smart Cats NFT](smart-cats-pool.md)
+
+## Can any NFT collection be staked?
+
+CoinCollect can support staking for many NFT collections through Community Pools and Partner Pools. If you don’t see your NFT collection yet, you can request a pool via [Collaboration Pools](../../collaboration-pools-unlocking-rewards-and-opportunities.md).
+
+## FAQ (Stake NFT)
+
+**Where do I stake NFTs?**  
+Use the app: https://app.coincollect.org/nftpools
+
+**How do I know what rewards I’ll get?**  
+Each pool shows reward token(s), APY, and duration in the pool UI.
+
+**Is staking safe?**  
+Only stake through verified links. See [Official Accounts](../../extras/offical-accounts.md).
+
+Stay tuned for more updates and get ready to dive into the world of Community Collections on CoinCollect.
 
 Stay tuned for more updates and get ready to dive into the world of Community Collections on CoinCollect. This is just the beginning of our journey to create more value and opportunities for our amazing community!

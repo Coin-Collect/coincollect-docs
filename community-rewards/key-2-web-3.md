@@ -1,13 +1,12 @@
 ---
 description: >-
-  Unlock the future of Web3 with Key 2 Web 3 by CoinCollect. Mint, stake, and
-  earn rewards seamlessly. Discover easy steps to mint on OpenSea, stake your
-  NFTs, and claim your rewards. Join the metaverse
+  Stake NFT rewards with Key 2 Web 3 by CoinCollect. Learn how to stake your KEY
+  NFT, claim rewards, and use CoinCollect NFT staking.
 ---
 
-# 🔑 Key 2 Web 3
+# Stake Key 2 Web 3 NFT (KEY)
 
-#### CoinCollect: Key 2 Web 3 Documentation
+#### CoinCollect: Key 2 Web 3 NFT staking guide
 
 ***
 
@@ -15,7 +14,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/DALL·E 2024-05-21 14.55.17 - A wide poster in a cartoon-style inspired by CoinCollect, featuring the title &#x27;Key 2 Web 3&#x27; prominently displayed in big, bold letters at the top. The.webp" alt="Key 2 Web 3"><figcaption><p>Key 2 Web 3</p></figcaption></figure>
 
-Key 2 Web 3 is your gateway to the metaverse and the wonders of Web3 technologies. By minting, staking, and earning rewards through our accessible and user-friendly platform, you can seamlessly integrate into the decentralized digital realm. The Key 2 Web 3 project simplifies complex technologies, guiding users on their journey with affordable or free NFTs that unlock a world of possibilities.
+Key 2 Web 3 (KEY) is a gateway NFT for the CoinCollect ecosystem. Holders can **stake the KEY NFT** to access pools, earn rewards, and participate in community campaigns.
 
 ***
 
@@ -44,7 +43,7 @@ Minting your Key 2 Web 3 NFT is simple and straightforward. Follow these steps:
 
 ### How to Stake Your NFT
 
-Staking your NFT allows you to earn rewards and grow your digital assets. Here’s how to stake your Key 2 Web 3 NFT:
+Staking your NFT allows you to earn rewards and grow your digital assets. Here’s how to **stake your Key 2 Web 3 NFT (KEY)**:
 
 1. **Visit the Staking Page**: Go to the [CoinCollect NFT Pools](https://app.coincollect.org/nftpools).
 2. **Connect Your Wallet**: Ensure your digital wallet is connected to the CoinCollect platform.

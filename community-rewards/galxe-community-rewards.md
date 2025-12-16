@@ -1,16 +1,16 @@
 ---
-description: Galxe OAT Reward Rules
+description: Stake NFT rewards with Galxe OATs on CoinCollect. Learn how to stake your Galxe OAT NFT and claim rewards.
 cover: ../.gitbook/assets/galxe2.png
 coverY: 0
 ---
 
-# 💫 Galxe Community Rewards
+# Stake Galxe OAT NFT (Community Rewards)
 
 ## How to claim rewards and stake your OATs?
 
-**Coincollect is the platform where only the highest quality NFT projects make their debut. Every project launched within Coincollect is accompanied by a unique stake and claim pool. This ensures that those who purchase NFTs from these projects receive instant bonus coins for every NFT they own. Subsequently, by staking their NFTs in these pools, they pave the way for consistent earnings.**
+**CoinCollect is the platform where only the highest quality NFT projects make their debut. Every project launched within CoinCollect is accompanied by a unique stake and claim pool. This ensures that those who participate can claim rewards and stake NFTs for ongoing earnings.**
 
-### Coincollect proudly presents its own quartet of distinguished NFTs: Starter, Bronze, Silver, and Gold. Ownership of these NFTs grants exclusive access to the stake and claim pools of all projects, both current and future, within the Coincollect realm.
+### CoinCollect proudly presents its own quartet of distinguished NFTs: Starter, Bronze, Silver, and Gold. Ownership of these NFTs can grant access to stake and claim pools within the CoinCollect ecosystem.
 
 ## OAT HOLDER!
 
@@ -18,11 +18,11 @@ coverY: 0
 
 
 
-## **How to Claim your tokens via OATS?**&#x20;
+## How to claim your tokens (Galxe OAT)
 
-## **1-  Enter the "**[**Claim Rewards**](https://app.coincollect.org/claim)**" page.**&#x20;
+## 1- Enter the "[Claim Rewards](https://app.coincollect.org/claim)" page.
 
-## **2- Find the "Galxe OAT Claim pool" Click on the "Claim" button to receive your reward.**
+## 2- Find the "Galxe OAT Claim pool" and click "Claim" to receive your reward.
 
 
 
@@ -30,17 +30,17 @@ coverY: 0
 
 
 
-## <mark style="color:red;">**How to Stake your OATS?**</mark>&#x20;
+## <mark style="color:red;">How to stake your Galxe OAT NFT</mark>&#x20;
 
-## **1 - Enter the** [**NFT Stake**](https://app.coincollect.org/nftpools) **page.**&#x20;
+## 1 - Enter the [NFT Stake](https://app.coincollect.org/nftpools) page.
 
-## **2- Use the "Connect Wallet" button to log in to the site.**&#x20;
+## 2- Use the "Connect Wallet" button to log in.
 
-## **3- Click on the "Click To Stake Now" button located over the OAT pool.**&#x20;
+## 3- Click on the "Click To Stake Now" button located over the OAT pool.
 
-## **4- From the list of stakable collections, select Galxe OATs.**
+## 4- From the list of stakable collections, select **Galxe OATs**.
 
-## **5-  Choose the OATs you wish to stake. Press the "Stake" button. Monitor your earnings in real-time.**
+## 5- Choose the OAT(s) you wish to stake. Press "Stake" and monitor your earnings in real-time.
 
 
 

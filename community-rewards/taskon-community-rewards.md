@@ -1,18 +1,18 @@
 ---
-description: TaskON Reward Rules
+description: Stake NFT rewards with TaskON CAPs on CoinCollect. Learn how to stake your TaskON CAP NFT and claim rewards.
 cover: ../.gitbook/assets/Screenshot 2023-09-12 at 12.13.41.png
 coverY: 0
 ---
 
-# 🎯 TaskON Community Rewards
+# Stake TaskON CAP NFT (Community Rewards)
 
 ## How to claim rewards and stake your CAPs?
 
-**CoinCollect is the platform where only the most elite NFT projects make their debut. Each project launched within CoinCollect is accompanied by a unique stake and claim pool. This feature ensures that anyone who acquires NFTs from these projects receives instant bonus tokens for every NFT in their possession. Additionally, by staking their NFTs in these pools, they create opportunities for consistent returns.**
+**CoinCollect is the platform where only the most elite NFT projects make their debut. Each project launched within CoinCollect is accompanied by a unique stake and claim pool. This feature ensures that anyone who acquires NFTs from these projects can claim rewards and stake NFTs for consistent returns.**
 
 ### CoinCollect's Exclusive NFT Collection
 
-**Coincollect proudly presents its own quartet of distinguished NFTs: Starter, Bronze, Silver, and Gold. Ownership of these NFTs grants exclusive access to the stake and claim pools of all projects, both current and future, within the Coincollect realm.**
+**CoinCollect proudly presents its own quartet of distinguished NFTs: Starter, Bronze, Silver, and Gold. Ownership of these NFTs can grant access to stake and claim pools within the CoinCollect ecosystem.**
 
 ## Attention, TaskON CAP Holders!!
 
@@ -20,27 +20,27 @@ coverY: 0
 
 
 
-## **How to Claim your tokens via CAPs?**&#x20;
+## How to claim your tokens (TaskON CAP)
 
-## **1-  Enter the "**[**Claim Rewards**](https://app.coincollect.org/claim)**" page.**&#x20;
+## 1- Enter the "[Claim Rewards](https://app.coincollect.org/claim)" page.
 
-## **2- Find the "TaskON Claim pool" Click on the "Claim" button to receive your reward.**
-
-
+## 2- Find the "TaskON Claim pool" and click "Claim" to receive your reward.
 
 
 
-## <mark style="color:red;">**How to Stake your CAPs?**</mark>&#x20;
 
-## **1 - Enter the** [**NFT Stake**](https://app.coincollect.org/nftpools) **page.**&#x20;
 
-## **2- Use the "Connect Wallet" button to log in to the site.**&#x20;
+## <mark style="color:red;">How to stake your TaskON CAP NFT</mark>&#x20;
 
-## **3- Click on the "Click To Stake Now" button located over the OAT pool.**&#x20;
+## 1 - Enter the [NFT Stake](https://app.coincollect.org/nftpools) page.
 
-## **4- From the list of stakable collections, select TaskON CAPs.**
+## 2- Use the "Connect Wallet" button to log in.
 
-## **5- Choose the CAPs you wish to stake. Press the "Stake" button and monitor your earnings in real-time.**
+## 3- Click on the "Click To Stake Now" button located over the CAP/OAT pool.
+
+## 4- From the list of stakable collections, select **TaskON CAPs**.
+
+## 5- Choose the CAP(s) you wish to stake. Press "Stake" and monitor your earnings in real-time.
 
 
 ##
