@@ -7,6 +7,7 @@
   * [Create a Wallet](getting-started/create-a-wallet.md)
   * [Get ERC-20 Token](getting-started/get-erc-20-token.md)
 * [CoinCollect Games](coincollect-games.md)
+  * [GhostAlien (QuestGalaxy)](coincollect-games/ghostalien.md)
 * [Collaboration Pools: Unlocking Rewards and Opportunities](collaboration-pools-unlocking-rewards-and-opportunities.md)
 
 ## 🧊 CoinCollect NFT
