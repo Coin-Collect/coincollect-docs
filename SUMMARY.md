@@ -46,3 +46,4 @@
 * [Contact us](extras/contact-us.md)
 * [Smart Contracts](extras/smart-contracts.md)
 * [Official Accounts](extras/offical-accounts.md)
+* [SapienX + CoinCollect](extras/sapienx-partnership.md)
