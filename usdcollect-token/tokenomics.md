@@ -5,7 +5,7 @@ description: This is how CoinCollect ecosystem uses its $COLLECT governance toke
 # Tokenomics
 
 {% hint style="danger" %}
-### _Good to know_ : The tokenomics of the $COLLECT token is not ready yet! and it's still in development phase
+### _Good to know_: Tokenomics are a draft and may change as the project evolves. Please check back for updates.
 {% endhint %}
 
 _Tokenomics is a critical aspect of any blockchain-based Web3 project, as it ensures a fair and sustainable growth trajectory for the ecosystem. At CoinCollect, we understand the importance of having a solid and well-thought-out tokenomics plan, which is why we are taking our time to develop a fair and transparent model that benefits the entire community. We believe that a project without strong and sustainable tokenomics is more likely to lack direction and purpose, which is why we are committed to building a strong foundation for the future success of CoinCollect._

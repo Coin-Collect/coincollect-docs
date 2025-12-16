@@ -38,10 +38,9 @@ coverY: 0
 
 ## **3- Click on the "Click To Stake Now" button located over the OAT pool.**&#x20;
 
-## **4- From the list of stakable collections, select Galxe OATs.**
+## **4- From the list of stakable collections, select TaskON CAPs.**
 
-## **5-  Choose the CAPs you wish to stake. Press the "Stake" button. Monitor your earnings in real-time.**
-
+## **5- Choose the CAPs you wish to stake. Press the "Stake" button and monitor your earnings in real-time.**
 
 
 ##

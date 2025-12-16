@@ -20,12 +20,12 @@ Here's a general guide on how to buy Matic (Polygon) tokens from an exchange and
 {% endtab %}
 
 {% tab title="Binance" %}
-[**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com) - You can withdraw MATIC tokens via your Binance account (if you have one). Bear in mind you need an account to do so.&#x20;
+[**Binance.com**](https://www.binance.com/) - You can withdraw MATIC tokens via your Binance account (if you have one). Bear in mind you need an account to do so.&#x20;
 
 {% hint style="info" %}
 to withdraw MATIC token to your wallet address on Polygon don't forget to choose Polygon network while withdrawing.&#x20;
 {% endhint %}
 
-📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
+📖 [Here’s Binance’s guide on withdrawing crypto.](https://www.binance.com/en/support/faq/how-to-withdraw-cryptocurrency-from-binance-115003670492)
 {% endtab %}
 {% endtabs %}

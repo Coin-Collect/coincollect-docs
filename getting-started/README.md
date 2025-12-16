@@ -11,7 +11,7 @@ To join CoinCollect, all you need to do is Connect via your wallet
 **To connect your web3 wallet to CoinCollect, follow these steps:**
 
 1. Install a web3 wallet like MetaMask or Trust Wallet on your device.
-2. Make sure your web3 wallet is set up and connected to the **Polygon** , (Ethereum, BSC, Avalaunch and Fantom are coming next)
+2. Make sure your web3 wallet is set up and connected to **Polygon** (Ethereum, BSC, Avalanche, and Fantom are coming next).
 3. Visit the CoinCollect website and click on the "Connect Wallet" button.
 4. Choose the web3 wallet option and select the wallet you just installed.
 5. Follow the prompts to connect your wallet to CoinCollect.

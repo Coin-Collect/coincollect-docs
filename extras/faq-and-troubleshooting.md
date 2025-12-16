@@ -1,3 +1,7 @@
+---
+description: Common questions and quick fixes for wallets, staking, rewards, NFTs, and transactions.
+---
+
 # FAQ and Troubleshooting
 
 ### Frequently Asked Questions
