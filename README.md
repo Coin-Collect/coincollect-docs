@@ -12,6 +12,8 @@ description: >-
 CoinCollect is a decentralized NFT finance protocol operating on multi-chains that helps NFT traders, high-yield farmers, liquidity providers, developers, and Web3 startups to participate in an open financial market with no barriers to entry.
 {% endhint %}
 
+New here? Start with [Start here](start-here.md).
+
 CoinCollect is a decentralized protocol that operates on multiple blockchain networks. It is designed to assist individuals and organizations involved in the non-fungible token (NFT) market, including traders, farmers, liquidity providers, developers, and Web3 startups. The protocol aims to create an open financial market that is accessible to everyone, with no barriers to entry.
 
 The protocol allows NFT traders to buy and sell NFTs on a decentralized marketplace, which is supported by multiple blockchain networks. This allows for greater flexibility and access to a wider range of NFTs.
