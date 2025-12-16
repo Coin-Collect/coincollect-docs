@@ -21,7 +21,7 @@ description: >-
 #### CoinCollect Gold NFT : [https://polygonscan.com/address/0x117D6870e6dE9faBcB40C34CceDD5228C63e3a1e](https://polygonscan.com/address/0x117D6870e6dE9faBcB40C34CceDD5228C63e3a1e)
 
 {% hint style="info" %}
-### These are the important smart contracts used in the CoinCollect defi
+### These are the important smart contracts used in the CoinCollect DeFi
 
 $COLLECT Token : [0x56633733fc8BAf9f730AD2b6b9956Ae22c6d4148](https://polygonscan.com/address/0x56633733fc8baf9f730ad2b6b9956ae22c6d4148)
 

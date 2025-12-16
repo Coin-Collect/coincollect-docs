@@ -13,9 +13,9 @@ description: >-
 
 Here are some benefits of CoinCollect NFTs
 
-* HOLD : Airdrop coins, NFTdrops, Giveaways, Whitelists and more...
-* STAKE : Boost APY, No impermenant loss
-* TRADE/SELL : Trade or sell on supported MarketPlaces such as OpenSea, NFTrade and more ...
+* HOLD : Airdrop coins, NFT drops, giveaways, whitelists, and more...
+* STAKE : Boost APY, no impermanent loss
+* TRADE/SELL : Trade or sell on supported marketplaces such as OpenSea, NFTrade, and more...
 {% endhint %}
 
 ## CoinCollect utility NFTs
@@ -29,4 +29,3 @@ The NFTs are fully owned by the holder, meaning that they can trade, stake, farm
 In summary, CoinCollect special utility NFTs are unique assets that offer additional benefits and utility to holders, such as earning new coins, staking, farming, trading and other possibilities in the future. These NFTs are valuable and can be used to earn coins passively, giving holders the flexibility to use them as they please.
 
 ![Meaning of NFT properties](../.gitbook/assets/NFTusage.png)
-

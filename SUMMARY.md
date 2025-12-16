@@ -40,6 +40,6 @@
 ## Extras
 
 * [FAQ and Troubleshooting](extras/faq-and-troubleshooting.md)
-* [contact us](extras/contact-us.md)
+* [Contact us](extras/contact-us.md)
 * [Smart Contracts](extras/smart-contracts.md)
-* [Offical Accounts](extras/offical-accounts.md)
+* [Official Accounts](extras/offical-accounts.md)
